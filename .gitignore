@@ -1,6 +1,9 @@
-PongGame/.idea/*.*
-sample/.idea/*.*
-sample/venv/*.*
-sample/venv/Lib/*.*
-sample/venv/Include/*.*
-sample/venv/Scripts/*.*
+PongGame/.idea/*
+sample/.idea/*
+sample/utilities/__pycache__/*
+sample/venv/*
+sample/venv/Lib/*
+sample/venv/Include/*
+sample/venv/Scripts/*
+VrMonitor/.idea/*
+VrMonitor/venv/*
