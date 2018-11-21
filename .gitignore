@@ -1,0 +1,6 @@
+PongGame/.idea/*.*
+sample/.idea/*.*
+sample/venv/*.*
+sample/venv/Lib/*.*
+sample/venv/Include/*.*
+sample/venv/Scripts/*.*
